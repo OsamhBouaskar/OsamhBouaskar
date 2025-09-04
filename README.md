@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Osama Bouaskar
+# 👋 Hi, I'm Osamah Bouaskar
 
 🎓 **Bachelor's Degree in Computer Science - Seiyun University, 2025**  
 💻 **Passionate about Full Stack Web Development**  
