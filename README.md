@@ -25,5 +25,5 @@
 
 ## 🌐 Connect with me
 - [GitHub](https://github.com/OsamaBuoaskar)
-- [LinkedIn](#) _(Add your LinkedIn link here)_
-- [Personal Website](#) _(If you have one)_
+- [LinkedIn](www.linkedin.com/in/osamaaskar1)
+- 🌐 Personal Website — _Currently in Development..._
