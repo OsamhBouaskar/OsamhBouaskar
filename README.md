@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Osama Bouaskar
 
-<!--
-**OsamhBouaskar/OsamhBouaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate**  
+💻 **Passionate about Full Stack Web Development**  
+📱 Interested in building **Flutter Mobile Apps** and **Django Web Applications**  
+🚀 Always learning and exploring new technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Programming Languages:** Dart, Python, JavaScript  
+- **Frameworks & Tools:** Flutter, Django, Firebase, Git/GitHub  
+- **Other Skills:** Responsive Web Design, Database Management, Problem Solving  
+
+---
+
+## 🌍 Location
+📍 Yemen  
+
+## 🌐 Connect with me
+- [GitHub](https://github.com/OsamaBuoaskar)
+- [LinkedIn](#) _(Add your LinkedIn link here)_
+- [Personal Website](#) _(If you have one)_
